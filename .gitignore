@@ -1,0 +1,37 @@
+# Built files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Build folders
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+bin/
+outputs/
+
+# Android Studio files
+.idea/
+*.iml
+.navigation/
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/deploymentTargetDropDown.xml
+
+# Gradle files
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+
+# Local configuration
+local.properties
+
+# System files
+.DS_Store
+Thumbs.db
